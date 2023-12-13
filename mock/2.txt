@@ -1,0 +1,1 @@
+Without bucket versioning in s2 bucket
